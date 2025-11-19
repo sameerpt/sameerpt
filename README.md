@@ -1,61 +1,74 @@
-## 👨‍💻 MERN Stack Developer
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sameer+👋;MERN+Stack+Developer;Full-Stack+Web+Developer;JavaScript+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
+</h1>
 
-<!--
-**sameer4712/sameer4712** is a ✨ _special_ ✨ repository because its `README.md`
-appears on your GitHub profile.
--->
-
-## Hi, I'm Sameer! 👋  
-A passionate **MERN Stack Developer** who builds modern, scalable, and user-friendly web applications.
-
----
-
-## 🚀 Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=sameer4712&style=for-the-badge&color=blueviolet" />
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Advanced Next.js  
-- System Architecture  
-- Deployment (Vercel / Render)
+## 🚀 About Me
+
+💻 Passionate **MERN Stack Developer**  
+🎨 Loves building **clean, modern, beautiful UI**  
+⚡ Focused on **performance, scalability & user experience**  
+📚 Always learning **Next.js, System Architecture, and Cloud Deployments**  
 
 ---
 
-## 💬 Ask Me About
-- MERN Stack Development  
-- Authentication (JWT, Google OAuth)  
-- REST APIs  
-- Tailwind UI/UX  
+## 🛠️ Tech Stack
+
+### 🌐 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,ts" />
+</p>
+
+### ⚙️ **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+</p>
+
+### 🔧 **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameer4712&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=sameer4712&theme=radical)
+## 🎯 What I Do
+
+- Build **full-stack MERN apps**
+- Implement **JWT, Google OAuth, secure authentication**
+- Create **responsive & animated UI**
+- Design **REST APIs & backend systems**
+- Deploy apps on **Vercel / Render**
 
 ---
 
-## 📫 How to reach me
-- Email: *your email here*  
-- LinkedIn: *your LinkedIn URL*
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I debug more than I code — but that makes the code perfect 😄
+✨ *I debug like a detective — because every bug has a story.* 😄
