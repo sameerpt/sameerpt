@@ -9,62 +9,77 @@
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">About Me</pre>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">About Me</pre>
 
 <p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
-  <pre>
-Passionate MERN Stack Developer<br>
-Loves building clean, modern, beautiful UI<br>
-Focused on performance, scalability & user experience<br>
-Always learning Next.js, System Architecture, and Cloud Deployments
+  <pre style="font-weight: 900; font-size:22px;">
+Passionate MERN Stack Developer.<br>
+Loves building clean, modern, beautiful UI.<br>
+Focused on performance, scalability & user experience.<br>
+Always learning Next.js, System Architecture, and Cloud Deployments.
     </pre>
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Tech Stack</pre>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">Tech Stack</pre>
 
-### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Frontend</pre>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Frontend</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,ts" />
 </p>
 
-### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Backend</pre>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Backend</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
-### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900;">Tools</pre>
+### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Tools</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">GitHub Analytics</pre>
+<!-- GitHub Analytics -->
+<pre align="center" style="font-family: 'Mozilla Headline', sans-serif; font-weight: 900; font-size: 26px;">
+  GitHub Analytics
+</pre>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
-</p>
+<pre align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer4712&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="165"
+  />
+</pre>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sameer4712&theme=tokyonight&hide_border=true" />
-</p>
+<pre align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=sameer4712&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180"
+  />
+</pre>
+
+<hr style="border: 0; height: 1px; background: #444; width: 80%; margin: 30px auto;">
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">What I Do</pre>
+
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">What I Do</pre>
 
 <p style="font-family: 'Kode Mono', monospace; font-size: 15px; line-height: 22px;">
-  <pre>
-- Build full-stack MERN apps<br>
-- Implement JWT, Google OAuth, secure authentication<br>
-- Create responsive & animated UI<br>
-- Design REST APIs & backend systems<br>
-- Deploy apps on Vercel / Render
+  <pre style="font-weight: 900; font-size:22px;">
+- Build full-stack MERN apps.<br>
+- Implement JWT, Google OAuth, secure authentication.<br>
+- Create responsive & animated UI.<br>
+- Design REST APIs & backend systems.<br>
+- Deploy apps on Vercel / Render.
   </pre>
 </p>
 
 
-## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Connect With Me</pre>
+## <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:26px">Connect With Me</pre>
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
