@@ -11,7 +11,7 @@
 
 ## <span style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 700;">About Me</span>
 
-<p style="font-family: 'Kode Mono', monospace; font-size: 15px; line-height: 22px;">
+<p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
 Passionate <b>MERN Stack Developer</b><br>
 Loves building <b>clean, modern, beautiful UI</b><br>
 Focused on <b>performance, scalability & user experience</b><br>
