@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sameer+👋;MERN+Stack+Developer;Full-Stack+Web+Developer;JavaScript+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=540863&center=true&vCenter=true&width=500&lines=Hi+I'm+Sameer;MERN+Stack+Developer;Full-Stack+Web+Developer;Next+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
 </h1>
 
 <p align="center">
@@ -10,35 +10,35 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-💻 Passionate **MERN Stack Developer**  
-🎨 Loves building **clean, modern, beautiful UI**  
-⚡ Focused on **performance, scalability & user experience**  
-📚 Always learning **Next.js, System Architecture, and Cloud Deployments**  
+ Passionate **MERN Stack Developer**  
+ Loves building **clean, modern, beautiful UI**  
+ Focused on **performance, scalability & user experience**  
+ Always learning **Next.js, System Architecture, and Cloud Deployments**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 **Frontend**
+###  **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,ts" />
 </p>
 
-### ⚙️ **Backend**
+###  **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
-### 🔧 **Tools**
+###  **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameer4712&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 - Build **full-stack MERN apps**
 - Implement **JWT, Google OAuth, secure authentication**
@@ -61,7 +61,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
@@ -70,5 +70,3 @@
 
 ---
 
-## ⚡ Fun Fact
-✨ *I debug like a detective — because every bug has a story.* 😄
