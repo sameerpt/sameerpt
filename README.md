@@ -16,7 +16,7 @@
 Passionate MERN Stack Developer.<br>
 Loves building clean, modern, beautiful UI.<br>
 Focused on performance, scalability & user experience.<br>
-Always learning Next.js, System Architecture, and Cloud Deployments.
+<!-- Always learning Next.js, System Architecture, and Cloud Deployments. -->
     </pre>
 </p>
 
@@ -36,7 +36,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Tools</pre>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase,netlify," />
 </p>
 
 
