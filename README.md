@@ -31,7 +31,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Backend</pre>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,redis" />
 </p>
 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Tools</pre>
