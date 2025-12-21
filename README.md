@@ -78,7 +78,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
-  <a href="https://sameeer-portfolio-weld.vercel.app" target="_blank">
+  <a href="https://sameer-portfolio-weld.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="40"/>
   </a>
 </p>
