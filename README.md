@@ -13,7 +13,7 @@
   <pre style="font-weight: 900; font-size:22px;">
 Passionate MERN Stack Developer.<br>
 Loves building clean, modern, beautiful UI.<br> 
-<!-- Focused on performance, scalability & user experience.<br> -->
+Focused on performance, scalability & user experience.<br>
 Always learning Next.js, System Architecture, and Cloud Deployments.
     </pre>
 </p>
