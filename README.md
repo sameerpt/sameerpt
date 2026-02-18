@@ -12,7 +12,7 @@
 <p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
   <pre style="font-weight: 900; font-size:22px;">
 Passionate MERN Stack Developer.<br>
-<!-- Loves building clean, modern, beautiful UI.<br>  -->
+Loves building clean, modern, beautiful UI.<br> 
 Focused on performance, scalability & user experience.<br>
 Always learning Next.js, System Architecture, and Cloud Deployments.
     </pre>
