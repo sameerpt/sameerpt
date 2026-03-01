@@ -1,5 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 800;"> 
+  
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=007E6E&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer;MERN+Stack+Developer;Full-Stack+Web+Developer;Next+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
 </h1>
 
