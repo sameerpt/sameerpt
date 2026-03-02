@@ -9,6 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=29&letterSpacing=0.1rem&duration=1&pause=1000&color=5A827E&vCenter=true&width=435&lines=About+Me)](https://git.io/typing-svg)
 
+
 <p style="font-family: 'Comic Sans MS'; font-size: 15px; line-height: 22px;">
   <pre style="font-weight: 900; font-size:22px;">
 Passionate MERN Stack Developer.<br>
