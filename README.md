@@ -41,7 +41,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 - Build full-stack MERN apps.<br>
 - Implement JWT, Google OAuth, secure authentication.<br>
 - Create responsive & animated UI.<br>
-- Design REST APIs & backend systems. <br>
+- Design REST APIs & backend systems.<br>
 - Deploy apps on Vercel / Render. 
   </pre>
 </p>
