@@ -39,7 +39,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 <p style="font-family: 'Kode Mono', monospace; font-size: 15px; line-height: 22px;">
   <pre style="font-weight: 900; font-size:22px;">
 - Build full-stack MERN apps.<br>
-- Implement JWT, Google OAuth, secure authentication.<br>
+- Implement JWT, Google OAuth, secure authentication.<br> 
 - Create responsive & animated UI.<br>
 - Design REST APIs & backend systems.<br>
 - Deploy apps on Vercel / Render. 
