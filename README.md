@@ -14,7 +14,7 @@ Passionate MERN Stack Developer.<br>
 Loves building clean, modern, beautiful UI.<br>  
 Focused on performance, scalability & user experience.<br>
 Always learning Next.js, System Architecture, and Cloud Deployments.  
-    </pre>
+    </pre> 
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=29&letterSpacing=0.1rem&duration=1&pause=1000&color=5A827E&vCenter=true&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
