@@ -32,7 +32,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Tools</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase,netlify,figma" />
-</p>
+</p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=29&letterSpacing=0.1rem&duration=1&pause=1000&color=5A827E&vCenter=true&width=435&lines=What+I+Do)](https://git.io/typing-svg)
 
