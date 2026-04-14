@@ -44,7 +44,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 - Design REST APIs & backend systems.<br>
 - Deploy apps on Vercel / Render. 
   </pre> 
-</p>
+</p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=29&letterSpacing=0.1rem&duration=1&pause=1000&color=5A827E&vCenter=true&width=435&lines=Connect+With+Me)](https://git.io/typing-svg)
 
