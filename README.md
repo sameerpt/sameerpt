@@ -28,7 +28,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 <p>   
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p> 
-
+ 
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Tools</pre>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,supabase,netlify,figma" />
