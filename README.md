@@ -51,7 +51,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 <p align="left">
   <a href="https://www.linkedin.com/in/sameer-pt/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  </a> 
    
   <a href="mailto:sameerptmc@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
