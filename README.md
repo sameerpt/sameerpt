@@ -23,7 +23,7 @@ Always learning Next.js, System Architecture, and Cloud Deployments.
 <p>  
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" />
 </p> 
- 
+  
 ### <pre style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 900; font-size:23px">Backend</pre>
 <p>   
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
