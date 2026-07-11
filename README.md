@@ -1,10 +1,10 @@
-<!-- PROFILE HEADER -->             
+<!-- PROFILE HEADER -->              
 <h1 align="center" style="font-family: 'Mozilla Headline', Mozilla, sans-serif; font-weight: 800;">    
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=007E6E&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer;MERN+Stack+Developer;Full-Stack+Web+Developer;Next+%7C+Node+%7C+React+Enthusiast;Welcome+to+my+GitHub!">
 </h1>      
 <p align="center">  
   <img  src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>        
+</p>         
         
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=29&letterSpacing=0.1rem&duration=1&pause=1000&color=5A827E&vCenter=true&width=435&lines=About+Me)](https://git.io/typing-svg) 
      
